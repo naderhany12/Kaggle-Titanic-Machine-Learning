@@ -35,9 +35,3 @@ This repository contains my structured workflow and solution for the famous **Ti
    * Extracting passenger titles (`Mr`, `Mrs`, `Miss`, `Master`) from the `Name` column.
    * Creating a `FamilySize` feature by combining `SibSp` and `Parch` to capture family survival dynamics.
 
----
-
-## 🚀 How to Run the Project
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/naderhany12/YOUR_REPO_NAME.git](https://github.com/naderhany12/YOUR_REPO_NAME.git)
