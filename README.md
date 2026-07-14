@@ -29,7 +29,7 @@ This repository contains my structured workflow and solution for the famous **Ti
 2. **Model Exploration:**
    * **Logistic Regression:** Served as a solid starting baseline.
    * **XGBoost:** Achieved a high validation score (`85.56%`) but faced slight overfitting due to the small size of the Titanic dataset, yielding a Kaggle score of `0.77511`.
-   * **Random Forest:** Current champion! Provided the most robust and stable generalization (`84.44%` Val / `0.77990` Kaggle).
+   * **Random Forest:** Current champion! Provided the most robust and stable generalization (`83.52%` Val / `0.78229` Kaggle).
 
 3. **Feature Engineering (In Progress):**
    * Extracting passenger titles (`Mr`, `Mrs`, `Miss`, `Master`) from the `Name` column.
